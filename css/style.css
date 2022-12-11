@@ -524,7 +524,7 @@ header nav .form i {
   padding-bottom: var(--main-padding);
   text-align: center;
   position: relative;
-  background-image: url(/images/stats\ bg.jpg);
+  background-image: url(./images/stats\ bg.jpg);
 }
 .stats::before {
   content: "";
@@ -702,7 +702,7 @@ header nav .form i {
 .quote {
   padding-top: var(--main-padding);
   padding-bottom: var(--main-padding);
-  background-image: url(/images/quote\ bg.png);
+  background-image: url(./images/quote\ bg.png);
   background-size: cover;
   position: relative;
   text-align: center;
@@ -817,7 +817,7 @@ header nav .form i {
 .subscribe {
   padding-top: var(--main-padding);
   padding-bottom: var(--main-padding);
-  background-image: url(/images/subscribe\ bg.jpg);
+  background-image: url(./images/subscribe\ bg.jpg);
   background-size: cover;
   position: relative;
   color: white;
@@ -971,7 +971,7 @@ header nav .form i {
   padding-top: calc(var(--main-padding) / 2);
   padding-bottom: calc(var(--main-padding) / 2);
   position: relative;
-  background-image: url(/images/footer\ bg.jpg);
+  background-image: url(./images/footer\ bg.jpg);
   background-size: cover;
   color: white;
   text-align: center;
